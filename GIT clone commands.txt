@@ -1,4 +1,12 @@
 git clone git@scm.cci.nokia.net:cns/ba/cs/pltfrm.git
 ssh-keygen -t rsa -b 2048 -C "arun.1.krishnan@nokia.com"
 
-For public create git account and create repo and then follow above
+
+
+$ git status
+
+$ git add .
+
+$ git commit -m "this is testing"
+
+$ git push origin master
